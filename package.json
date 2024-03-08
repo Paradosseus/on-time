@@ -1,0 +1,19 @@
+{
+  "name": "on-time",
+  "productName": "On-Time",
+  "version": "1.0.0",
+  "description": "a timezone viewer app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paradosseus",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.0"
+  },
+  "dependencies": {
+    "toastify-js": "^1.12.0"
+  }
+}
